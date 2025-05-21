@@ -1,5 +1,5 @@
 #!/bin/bash
-input="../free_books"
+input="https://link.springer.com/article/10.1007/s43032-022-00947-6/free_books"
 
 echo "It requires a file having links given in the line by line url format"
 echo "It depends on curl, sed, lynx, grep, head"
